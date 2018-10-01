@@ -1,0 +1,7 @@
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.csprojResolveAssemblyReference.cache
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.csproj.CoreCompileInputs.cache
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+D:\c#codes\wcf\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

@@ -1,0 +1,9 @@
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\netstandard2.0\MagicEightBallServiceLib.deps.json
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\netstandard2.0\MagicEightBallServiceLib.dll
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.csproj.CoreCompileInputs.cache
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.AssemblyInfoInputs.cache
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.AssemblyInfo.cs
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\netstandard2.0\MagicEightBallServiceLib.pdb
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.dll
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.pdb
+D:\c#codes\wcf\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\netstandard2.0\MagicEightBallServiceLib.csprojResolveAssemblyReference.cache
